@@ -1,3 +1,6 @@
 [submodule "Django"]
 	path = Django
 	url = https://github.com/VictorMongeM/django.git
+[submodule "next"]
+	path = next
+	url = https://github.com/Miguel20-bit/next.git

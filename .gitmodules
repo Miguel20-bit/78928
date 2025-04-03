@@ -4,3 +4,6 @@
 [submodule "next"]
 	path = next
 	url = https://github.com/Miguel20-bit/next.git
+[submodule "Next"]
+	path = Next
+	url = https://github.com/Miguel20-bit/Next.git

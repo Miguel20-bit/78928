@@ -7,3 +7,6 @@
 [submodule "Next"]
 	path = Next
 	url = https://github.com/Miguel20-bit/Next.git
+[submodule "mqtt"]
+	path = mqtt
+	url = https://github.com/Miguel20-bit/mqtt.git

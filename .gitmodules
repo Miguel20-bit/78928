@@ -10,3 +10,6 @@
 [submodule "mqtt"]
 	path = mqtt
 	url = https://github.com/Miguel20-bit/mqtt.git
+[submodule "proyecto"]
+	path = proyecto
+	url = https://github.com/Miguel20-bit/proyecto.git
